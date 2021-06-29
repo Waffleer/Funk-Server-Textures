@@ -1,11 +1,11 @@
 {
 	"pack": {
-		"pack_format": 6,
+		"pack_format": 7,
 		"description": {
 			"text": "All Server Textures For The Funk Server",
 			"color": "blue",
 			"italic": "true",
-			"bold": "true",
+			"bold": "false",
 
 			
 			"extra": [
